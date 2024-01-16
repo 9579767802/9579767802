@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 
-- 💬 Ask me about **Laravel, Java,Spring Boot, Hibernate **
+- 💬 Ask me about **Laravel**, **Java**, **Spring Boot**, **Hibernate**
 
 - 📫 How to reach me **shubham301220@gmail.com**
 
